@@ -1,0 +1,6 @@
+JAVASCRIPT II
+
+1. 'for': Hace referencia a el operador para asignar una condicion para que se realice hasta que se cumpla, mientras va continuar repitiendose como un bucle
+'&&': Se refiere a la condicion de " y " , por ejemplo: si x > 5 y x < 10.
+'||': Utilizamos el '||' que significa " o ", por ejemplo: si x < 10 o x > 15.
+'!' : El signo de admiracion seria una comparacion para indicar que es diferente.
